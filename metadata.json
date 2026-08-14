@@ -1,0 +1,6 @@
+{
+  "name": "PURO – Refugio Emocional",
+  "description": "Espacio digital sereno para el procesamiento emocional, frasco interactivo Etéreo con Espejo Socrático, guía de rituales Sie y tapiz histórico Sempiterno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
